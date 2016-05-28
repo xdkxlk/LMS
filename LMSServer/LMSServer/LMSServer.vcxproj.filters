@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\model">
+      <UniqueIdentifier>{51300850-3a20-48a1-9269-ed01343ac0e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\model">
+      <UniqueIdentifier>{82551289-c19f-4a94-95ed-af4fb5ecccbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\util">
+      <UniqueIdentifier>{2d465e10-97d1-4709-9a7a-15940c799f3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\util">
+      <UniqueIdentifier>{4d00a854-aff7-48d6-adbc-fc89ec832b6b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\view">
+      <UniqueIdentifier>{2b2a2213-6013-40fc-9509-c01f4830d512}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\view">
+      <UniqueIdentifier>{e37c8e48-7007-460c-8f0e-5622f9213dbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\dao">
+      <UniqueIdentifier>{6309017b-4731-4ac1-9eb2-3d291f071336}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\dao">
+      <UniqueIdentifier>{04479b35-3a6a-46aa-aba8-7934b94d5955}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\service">
+      <UniqueIdentifier>{753f0eda-1f8d-4b0e-ba43-28b890e351b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\service">
+      <UniqueIdentifier>{b048f672-b33e-44ba-b773-45dc6026cb92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\controller">
+      <UniqueIdentifier>{818741ec-206b-42e4-ab61-aa4b7370d443}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\controller">
+      <UniqueIdentifier>{05517b1f-54d6-49b0-a92a-51cbc3659d13}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CenterTabCtrl.h">
+      <Filter>头文件\view</Filter>
+    </ClInclude>
+    <ClInclude Include="LMSServer.h">
+      <Filter>头文件\view</Filter>
+    </ClInclude>
+    <ClInclude Include="LMSServerDoc.h">
+      <Filter>头文件\view</Filter>
+    </ClInclude>
+    <ClInclude Include="LMSServerView.h">
+      <Filter>头文件\view</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件\view</Filter>
+    </ClInclude>
+    <ClInclude Include="TabGroupPage.h">
+      <Filter>头文件\view</Filter>
+    </ClInclude>
+    <ClInclude Include="TabUserPage.h">
+      <Filter>头文件\view</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>头文件\model</Filter>
+    </ClInclude>
+    <ClInclude Include="StringUtil.h">
+      <Filter>头文件\util</Filter>
+    </ClInclude>
+    <ClInclude Include="JsonUtil.h">
+      <Filter>头文件\util</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCUtil.h">
+      <Filter>头文件\util</Filter>
+    </ClInclude>
+    <ClInclude Include="MySQL.h">
+      <Filter>头文件\util</Filter>
+    </ClInclude>
+    <ClInclude Include="UserSession.h">
+      <Filter>头文件\service</Filter>
+    </ClInclude>
+    <ClInclude Include="UUIDUtil.h">
+      <Filter>头文件\util</Filter>
+    </ClInclude>
+    <ClInclude Include="DAO.h">
+      <Filter>头文件\dao</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>头文件\service</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.h">
+      <Filter>头文件\controller</Filter>
+    </ClInclude>
+    <ClInclude Include="TabUserPageListCtrl.h">
+      <Filter>头文件\view</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstFile.h">
+      <Filter>头文件\util</Filter>
+    </ClInclude>
+    <ClInclude Include="Redis.h">
+      <Filter>头文件\dao</Filter>
+    </ClInclude>
+    <ClInclude Include="TabGroupListCtrl.h">
+      <Filter>头文件\view</Filter>
+    </ClInclude>
+    <ClInclude Include="DialgGroupAdd.h">
+      <Filter>头文件\view</Filter>
+    </ClInclude>
+    <ClInclude Include="DialgBroadcastInput.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CenterTabCtrl.cpp">
+      <Filter>源文件\view</Filter>
+    </ClCompile>
+    <ClCompile Include="LMSServer.cpp">
+      <Filter>源文件\view</Filter>
+    </ClCompile>
+    <ClCompile Include="LMSServerDoc.cpp">
+      <Filter>源文件\view</Filter>
+    </ClCompile>
+    <ClCompile Include="LMSServerView.cpp">
+      <Filter>源文件\view</Filter>
+    </ClCompile>
+    <ClCompile Include="TabGroupPage.cpp">
+      <Filter>源文件\view</Filter>
+    </ClCompile>
+    <ClCompile Include="TabUserPage.cpp">
+      <Filter>源文件\view</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件\view</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>源文件\model</Filter>
+    </ClCompile>
+    <ClCompile Include="StringUtil.cpp">
+      <Filter>源文件\util</Filter>
+    </ClCompile>
+    <ClCompile Include="JsonUtil.cpp">
+      <Filter>源文件\util</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCUtil.cpp">
+      <Filter>源文件\util</Filter>
+    </ClCompile>
+    <ClCompile Include="MySQL.cpp">
+      <Filter>源文件\util</Filter>
+    </ClCompile>
+    <ClCompile Include="UserSession.cpp">
+      <Filter>源文件\service</Filter>
+    </ClCompile>
+    <ClCompile Include="UUIDUtil.cpp">
+      <Filter>源文件\util</Filter>
+    </ClCompile>
+    <ClCompile Include="DAO.cpp">
+      <Filter>源文件\dao</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.cpp">
+      <Filter>源文件\service</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>源文件\controller</Filter>
+    </ClCompile>
+    <ClCompile Include="TabUserPageListCtrl.cpp">
+      <Filter>源文件\view</Filter>
+    </ClCompile>
+    <ClCompile Include="Redis.cpp">
+      <Filter>源文件\dao</Filter>
+    </ClCompile>
+    <ClCompile Include="TabGroupListCtrl.cpp">
+      <Filter>源文件\view</Filter>
+    </ClCompile>
+    <ClCompile Include="DialgGroupAdd.cpp">
+      <Filter>源文件\view</Filter>
+    </ClCompile>
+    <ClCompile Include="DialgBroadcastInput.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LMSServer.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\LMSServer.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\LMSServerDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\LMSServer.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

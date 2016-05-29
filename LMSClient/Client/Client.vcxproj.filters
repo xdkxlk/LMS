@@ -312,5 +312,6 @@
       <Filter>资源文件</Filter>
     </None>
     <None Include="..\..\..\..\node\bootStrap\css\bootstrap.min.css" />
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
 </Project>

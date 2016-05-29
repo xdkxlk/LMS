@@ -589,7 +589,7 @@ url : /user/addFriend/reply
 	"msg":"附加信息，验证信息"
 }
 */
-//添加好友（现必须好友在线）
+//添加好友
 Json::Value CUserController::addFriend(Json::Value json, SOCKET_INFORMATION* socket)
 {
 	Json::Value prevData;

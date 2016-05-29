@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CClassViewMenuButton" Collapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassView.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialgRegist" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAABAAAAAAAIAIgAAAAAAEAIAAAAA=</HashCode>
+      <FileName>DialgRegist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialgGroupSearch" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAABABAAAAAAIAAAAACAEAABAA=</HashCode>
+      <FileName>DialgGroupSearch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialgUserAdd" Collapsed="true">
+    <Position X="13" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIEAAAAAABAAAAAAAAAEwAAAAAAEAAAAAAA=</HashCode>
+      <FileName>DialgUserAdd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialgUserAddFriendReply" Collapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAACAACAAAAAAEBAABAAAAAAAAAAQAAAGAAAEAAA=</HashCode>
+      <FileName>DialgUserAddFriendReply.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialgUserAddFriendResult" Collapsed="true">
+    <Position X="14.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAABAAAIAAAAAEAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>DialgUserAddFriendResult.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialgUserInput" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAKAEAAAAAABAABAAAAgZAAABgAAAAAEAgAAA=</HashCode>
+      <FileName>DialgUserInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialgUserSearch" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAQAAAAAFAABAgAAgAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>DialgUserSearch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroupSearchListBox" Collapsed="true">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEQAAAAAAAAAAABAAAAQAAAAIAABAAAAAAAAA=</HashCode>
+      <FileName>GroupSearchListBox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHtmlData" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EBAAIAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HtmlGenerator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHtmlGenerator" Collapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABAgAABAAAACAAABAAAAAAQAAAIAAAAAAwAAAAAAAA=</HashCode>
+      <FileName>HtmlGenerator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClassToolBar" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>ClassView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClassView" Collapsed="true">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CGCACABAgAEAAAgAhAAMgAAAAiAEgAMAAAABgEAAACA=</HashCode>
+      <FileName>ClassView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClientApp" Collapsed="true">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAABQAAAAAQAAAARAAACIAA=</HashCode>
+      <FileName>Client.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClientDoc" Collapsed="true">
+    <Position X="13" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAABCAAAAAgCAAAgAAoBTggAgIgICQIBACBCAg=</HashCode>
+      <FileName>ClientDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CClientView" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGBAAAAgAQAAAAAOAAIhABAggAQAAJAAEgBBAAIAAE=</HashCode>
+      <FileName>ClientView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialogLogin" Collapsed="true">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIABABAoAAAAAAABAQBAAAAAAAAAAAAgAEABAAAAA=</HashCode>
+      <FileName>DialogLogin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileViewToolBar" Collapsed="true">
+    <Position X="14.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>FileView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFileView" Collapsed="true">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCCAAAiAEAACABAAAAgAAAACAEABNAAQABAABIAAA=</HashCode>
+      <FileName>FileView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAQAAAAAASAGAACiAAAgCAAAgIgAABAAAAAABA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COutputList" Collapsed="true">
+    <Position X="14.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAABAAAAgAAAAAAAAAAAIAABAAAIAAA=</HashCode>
+      <FileName>OutputWnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="COutputWnd" Collapsed="true">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAECAAAAAAAAAAAAACAAAAAABAAAIAQAAAA=</HashCode>
+      <FileName>OutputWnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPropertiesToolBar" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>PropertiesWnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPropertiesWnd" Collapsed="true">
+    <Position X="11.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAFkAAQCAAAQAmAAAACAAAAUAgJAACBQAAAA=</HashCode>
+      <FileName>PropertiesWnd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserFriendListCtrl" Collapsed="true">
+    <Position X="7.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAIAAAAAEIAAABACAASAEAAIAEAAAIQAAABA=</HashCode>
+      <FileName>UserFriendListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserGroupListCtrl" Collapsed="true">
+    <Position X="9.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAACCAAAAAAAEAAAIAAAAASAAAAIAMAAAABAAAAA=</HashCode>
+      <FileName>UserGroupListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserSearchDigListBoxCtrl" Collapsed="true">
+    <Position X="11.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAACAAAABAAAAQAAAAIAAAAAABAAAAA=</HashCode>
+      <FileName>UserSearchDigListBoxCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CViewTree" Collapsed="true">
+    <Position X="13" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAgQAAAAA=</HashCode>
+      <FileName>ViewTree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModel" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAACAAAAAAAAAAAAABAIAAAAAAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUser" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAkAAEAAQAABAIAAgQAIAIoBAABCAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFriend" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgkAAAAAEAAAAAQAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroup" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgABAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CJsonUtil" Collapsed="true">
+    <Position X="13.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAAAAAABAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>JsonUtil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCUtil" Collapsed="true">
+    <Position X="11.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAIBCAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>MFCUtil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStringUtil" Collapsed="true">
+    <Position X="15" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAEAAAAAAAAAAAAAAIBBAAAAAAA=</HashCode>
+      <FileName>StringUtil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWinSocket" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAACAAAAAAAAAA=</HashCode>
+      <FileName>TCPClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTCPSender" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAgAAACAAAAAEAAAAAAIBAAAAAAAA=</HashCode>
+      <FileName>TCPClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTCPClient" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAEAAAAAAAAAQDAAAAAEAgAQAAABAAACAAEA=</HashCode>
+      <FileName>TCPClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBaseService" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAQgAACAAAAAAABAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Service.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserService" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAgBAAAAACAACQBJAAABABEQAAKAAAAIIAFEAA=</HashCode>
+      <FileName>Service.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

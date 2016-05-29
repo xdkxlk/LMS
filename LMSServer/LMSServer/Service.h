@@ -1,8 +1,13 @@
 #pragma once
 #include "DAO.h"
 
+class CBaseService
+{
+
+};
+
 //===================CUserService===================
-class CUserService
+class CUserService : public CBaseService
 {
 public:
 	bool regist(const CUser& user);
@@ -25,10 +30,4 @@ public:
 private:
 	CUSerDAO m_userDAO;
 	CGroupDAO m_groupDAO;
-};
-
-class CGroupService
-{
-public:
-	
 };

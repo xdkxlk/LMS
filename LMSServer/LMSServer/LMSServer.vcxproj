@@ -248,6 +248,7 @@
     <ResourceCompile Include="LMSServer.rc" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ClassDiagram.cd" />
     <None Include="res\LMSServer.rc2" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LMSServer.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialgBroadcastInput" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAEAAAAAAEAAAMAAAABAA=</HashCode>
+      <FileName>DialgBroadcastInput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CModel" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAACAAAAAAAAAAAAABAIAAAAAAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroup" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroupSum" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUser" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAEAAAAAQAAAAAAAAQAIAIgAAAACAA=</HashCode>
+      <FileName>Model.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CJsonUtil" Collapsed="true">
+    <Position X="14" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAAAAAAAAABAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>JsonUtil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCUtil" Collapsed="true">
+    <Position X="15.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAIBCAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>MFCUtil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMySQL" Collapsed="true">
+    <Position X="14" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAASAAAAAAAAAAAAAQCACAQRAABAAAABAEAAAAEABAA=</HashCode>
+      <FileName>MySQL.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStringUtil" Collapsed="true">
+    <Position X="15.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAEAAAAAAAABCAAAAIBBABAAAAA=</HashCode>
+      <FileName>StringUtil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUUIDUtil" Collapsed="true">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAEAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>UUIDUtil.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCenterTabCtrl" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAIEAAAAAAAAAAAAAAAAAAEAIEAAAAAAAgAA=</HashCode>
+      <FileName>CenterTabCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDialgGroupAdd" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAQAAAQAAAAAAAAAEAAAgBAA=</HashCode>
+      <FileName>DialgGroupAdd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLMSServerApp" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAABAAAAAAQAAAABAAAAAAA=</HashCode>
+      <FileName>LMSServer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLMSServerDoc" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAACAAAgAAgASggAAACAAAQAAAAAAA=</HashCode>
+      <FileName>LMSServerDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLMSServerView" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAIAIEAAAIAGBBAgAAAgCAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>LMSServerView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAACAAAiAAAgCAAAgAAAAAAAAAAABA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTabGroupListCtrl" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEACAAAAAAAAEAAAAAAAAgABAAAIAIAAAAAAAAAA=</HashCode>
+      <FileName>TabGroupListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTabGroupPage" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAEAAAEAAAAEABAEAQAAAAAAAAABAAAAACAAAAA=</HashCode>
+      <FileName>TabGroupPage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTabUserPage" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEIAAEAAAAAABAAAAAAAAAAAAAQAAAEAAAAAAA=</HashCode>
+      <FileName>TabUserPage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTabUserPageListCtrl" Collapsed="true">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAECAAAAAAgAGAIAAAAAAAQAgAAIAAAEAIAAAACA=</HashCode>
+      <FileName>TabUserPageListCtrl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CRedis" Collapsed="true">
+    <Position X="15.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAwAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Redis.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBaseDAO" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAO.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUSerDAO" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEBAAAAAAAAAIAAABAAAAAAAAAAICBAAAIA=</HashCode>
+      <FileName>DAO.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGroupDAO" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAACABAAAAAAAAAAAQEAABIAAAgA=</HashCode>
+      <FileName>DAO.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserService" Collapsed="true">
+    <Position X="10" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAEAAAAAEAAAAJABABAAAAAAIQAAAgIAJEgA=</HashCode>
+      <FileName>Service.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserSession" Collapsed="true">
+    <Position X="11.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAgAAEAAAAAAAAAIAEAAAAAAAAQAAIAAIAAAhAAAAA=</HashCode>
+      <FileName>UserSession.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SOCKET_INFORMATION" Collapsed="true">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAgAAAAAAAAAAAAAABAAAQAAABAAAAAAQAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBaseController" Collapsed="true">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAABAAQAAAAAQAAAAAAACABABCAAAAAAABAIAAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUserController" Collapsed="true">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAIAAJAAAAAAAAAIAJABABAAAAAAIAAAAAIABEgA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTCPServer" Collapsed="true">
+    <Position X="6.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAMiUAQAAAAAAAQAAEAJAAAAAAIoAQACAFIAAAgAAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBaseService" Collapsed="true">
+    <Position X="10" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

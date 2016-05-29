@@ -59,15 +59,19 @@ class CUserController : public CBaseController
 {
 public:
 	/*
-	url: /regsit
 	{
-	"name": "lk",
-	"password": "password"
+	"userName": "lk",
+	"password": "1"
 	}
 	{
+		"friends": [
+			{"name": "n1", "status": 0},
+			{"name":"n2", "status": 1}
+		] //0为在线，1在线
+		"group": ["group1","group2"]
 	}
 	*/
-	//注册
+	//注册、异步套接字绑定
 	Json::Value regist(Json::Value json, SOCKET_INFORMATION* socket);
 	/*
 	url : /login
@@ -128,11 +132,30 @@ public:
 	Json::Value searchPeo(Json::Value json, SOCKET_INFORMATION* socket);
 	/*
 	url: /user/addFriend
+	网络请求数据格式
 	{
 		"name":"lk"
+		"msg":"附加信息，验证信息"
 	}
+	如果此请求为对上次添加朋友的响应，请求的格式
 	{
-		
+		"actID" : "UUIDxxxx",
+		"reply" : 0 //拒绝加朋友 1//同意加朋友
+		"msg" : "附加信息，拒绝/接受原因" 
+	}
+	同时从Redis获得上次host用户添加朋友的操作，并响应
+	url : /user/addFriend/reply
+	{
+		"hostName" : "XXX",
+		"friendName": "lk"
+		"reply" : 0 //拒绝加朋友 1//同意加朋友
+		"msg":"附加信息，拒绝/接受原因"
+	}
+	可以从Redis中获得的数据为
+	{
+		"hostName" : "XXX",
+		"friendName": "lk"
+		"msg":"附加信息，验证信息"
 	}
 	*/
 	//添加好友

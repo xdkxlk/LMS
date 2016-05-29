@@ -1,5 +1,4 @@
 # LMS
-------
 # 链路设计
 ## 同步链路
 ![img](https://raw.githubusercontent.com/xdkxlk/LMS/master/imgs/%E9%93%BE%E8%B7%AF01.png)
